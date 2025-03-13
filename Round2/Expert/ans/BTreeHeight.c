@@ -21,6 +21,7 @@ int height(struct Node *root) {
     int leftHeight = height(root->left);
     int rightHeight = height(root->right);
     return (leftHeight > rightHeight) ? leftHeight + 1 : rightHeight + 1;
+
 }
 
 int main() {
