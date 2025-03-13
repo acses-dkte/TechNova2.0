@@ -1,9 +1,22 @@
+/* Q1) Write a program to print Pascal's Triangle
+take n = 10 
+output should be like this -
+    
+1 
+1 1 
+1 2 1 
+1 3 3 1 
+1 4 6 4 1 
+1 5 10 10 5 1
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
 void printPascalsTriangle(int n)
 {
-    int **arr = (int **)malloc(n * sizeof(int)); // Fix: Use dynamic memory allocation
+    int **arr = (int **)malloc(n * sizeof(int));
     for (int i = 0; i < n; i++)
         arr[i] = (int *)malloc((i + 1) * sizeof(int));
 
@@ -21,7 +34,7 @@ void printPascalsTriangle(int n)
     }
 
     for (int i = 0; i < n; i++)
-        free(arr[i]); // Fix: Free allocated memory
+        free(arr[i]);
     free(arr);
 }
 
