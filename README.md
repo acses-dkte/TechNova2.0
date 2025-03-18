@@ -18,7 +18,7 @@ The second round involved **identifying and correcting errors** in given **C pro
 
 The final round was a **competitive coding contest on HackerRank**, where participants solved programming challenges under time constraints, similar to real-world coding competitions.
 
-Feel free to explore the solutions provided here as learning material. If you have any queries or suggestions, feel free to raise an issue or reach out to the organizers.
+Feel free to explore the questions provided here as learning material. If you have any queries or suggestions, feel free to raise an issue or reach out to the organizers.
 
 ---
 
