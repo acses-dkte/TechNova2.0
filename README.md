@@ -1,6 +1,6 @@
 # TechNova 2.0 - TechSymposium 🚀
 
-Welcome to **TechNova 2.0**, a technical event conducted as part of the grand **TechSymposium** at **DKTE**. This repository contains solutions for all the rounds conducted during the event.
+Welcome to **TechNova 2.0**, a technical event conducted as part of the grand **TechSymposium** at **DKTE**. This repository contains questions of all the rounds conducted during the event.
 
 ## Event Structure 📚
 
